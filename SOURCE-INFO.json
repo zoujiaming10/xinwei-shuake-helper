@@ -1,0 +1,33 @@
+{
+  "version": "2.5.6",
+  "obfuscated": false,
+  "keyt_protected": false,
+  "contains_user_settings_or_keys": false,
+  "known_issue": "PPT/document navigation current-item conflict remains unresolved on actual platform.",
+  "validation": {
+    "readable_source_matches_development_source": true,
+    "syntax_check": true,
+    "local_mock_regression_checks": 18,
+    "actual_platform_bug_fixed": false
+  },
+  "sha256": {
+    "app.py": "8edd64c67ba24d3208051a76db0bad6154bdcc671f88711f252ab0a8ddaa6511",
+    "engine.py": "2710bfd01282b7d2c72f32da6c3d5abcbcb802285eebcc7d00092bdfcb84d950",
+    "batch.py": "bbf750698b3686a28be966e8be5ebf168172521a191c3cb3d15a6c83457aa620",
+    "desktop.py": "1f14faa5ca1b8cc8d5ad91acb5f1e1ce3a898e504d56096370a27c121a247d34",
+    "vision.py": "79dea46dcc460d4f71e8e54fe165557102b728c984211abc503c18b24c9b2caa",
+    "README.md": "7ce2bbcad1b3f64b4684c0c304f13d52ec77754dfeacb3cab7c65e4860881563",
+    "LICENSE": "7aab66616de5d0e4c80600d84eb62b23270e2172768af32c79d69650dcd0cdc6",
+    ".gitignore": "aeb53904ca83b22e4b3660888ec3cde675392eefd9d65ae4265c51563f7d95f1",
+    "requirements.txt": "312ae461a9d2e5ea3989fea04526d81925e2e58604bcfca295915ab038469416",
+    "requirements-dev.txt": "b0aa97435fc859bdfe6f3e361a27a00881e27b0d010aec75c05faedb19c1b205",
+    "docs/历史版本说明.md": "da82c2784d08281e85d1ae026fadfa4af4a11b593be5be40261c8a893de2c9bf",
+    "tests/test_document_navigation.py": "8d7a514c0cf5e6a205e8d79e7c85d133ff4192e7a63ef50696be4c32b1ec3f57",
+    "tests/test_auto_open_catalog.py": "3c459b1813c6f910e31d2fcd4af2ab0abc7494dfa2330d98dc4bda9019003d30",
+    "tests/test_next_overlay.py": "8983b7bd6e527cbd729fce4682efef931cc2e2d796e3950176aa819d6eae3b2f"
+  },
+  "ui_changes": [
+    "Removed support contact and clipboard action",
+    "Added 本程序免费使用 to main page"
+  ]
+}
